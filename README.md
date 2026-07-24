@@ -6,22 +6,17 @@
 
 ### 💻 Software Engineer | Backend Developer | AI Enthusiast | Data Analytics
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%7C+Django+Developer;Artificial+Intelligence+Enthusiast;Data+Analytics;Backend+Developer;Always+Learning+New+Technologies" />
 
 <p>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/maryuri-espinosa">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:maryuesgo.2002gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB?style=for-the-badge"/>
-</a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&style=for-the-badge&color=blueviolet"/>
 
 </p>
 

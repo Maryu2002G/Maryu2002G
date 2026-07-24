@@ -207,31 +207,6 @@ Skills developed:
 
 ---
 
-# 📫 Connect with Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💜 Quote
-
-> **"Turning ideas into intelligent software through code, AI and data."**
 
 ⭐ Thanks for visiting my profile!
 

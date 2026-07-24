@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1U2-SeXjcP5b5oedU_oXIqFinQZtnm1KF/view?usp=sharing" />
+<img src="assets/baner.png" width="100%" alt="Banner" />
 
 # 👋 Hi, I'm Maryuri Alejandra Espinosa Gómez
 
